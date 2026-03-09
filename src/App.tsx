@@ -18,7 +18,7 @@ const App: React.FC = () => {
     passphrase: '114514',
     password: '114514',
     notBeforeDate: '2022-02-17',
-    validityYears: 114514,
+    validityYears: 88,
     keySize: 2048 as KeySize,
     hashAlgorithm: 'SHA-256' as HashAlgorithm,
     commonName: '114514',
